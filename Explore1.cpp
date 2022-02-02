@@ -19,6 +19,12 @@ int main() {
     cout << "Point b: x = " << b.x << ", y = " << b.y << endl;
 
     // Add your changes here.
+    Point c;
+    c.x = 10;
+    c.y = 5;
+
+    cout << "Point c: x = " << c.x << ", y = " << c.y << endl;
+
 
     return 0;
 }
